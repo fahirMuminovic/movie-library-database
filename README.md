@@ -2,7 +2,7 @@
 As you may assume, this project need a lot of improvement and code optimization. But it works as is, and as intended.
 **Language: Bosnian/English**
 
-# movie-library-database
+# About
 My first "real" web page that I made for my Web Development class. The main goal was to make a database and display it's content on the web page.
 
 ## Requirements (Features)
